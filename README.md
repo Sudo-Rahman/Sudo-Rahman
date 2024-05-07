@@ -13,7 +13,7 @@
 <br>
 
 <a href="https://github.com/Sudo-Rahman/Iridium" style="padding: 10px">
-  <img src="https://github.com/Sudo-Rahman/Iridium/blob/main/ressources/Iridium.png" width="50" height="50" align="center" />
+  <img src="https://github.com/Sudo-Rahman/Iridium/blob/main/resources/Iridium.png" width="50" height="50" align="center" />
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sudo-Rahman&repo=Iridium&theme=buefy" />
 </a>
