@@ -8,9 +8,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0EA5E9&height=220&section=header&text=Rahman%20YILMAZ&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=42&v=4" alt="Rahman YILMAZ profile banner" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=920&lines=I+build+useful+products+from+end+to+end;SaaS+%7C+dashboards+%7C+internal+tools+%7C+desktop;Rust+%2B+Svelte+%2B+TypeScript+%2B+Data+%2B+AI;Scope+%E2%86%92+Build+%E2%86%92+Ship+%E2%86%92+Maintain" alt="Typing SVG" />
-</a>
+<a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=920&lines=Software+developer+%26+lifelong+learner;Android+%7C+Desktop+%7C+Web+%7C+Data+%26+AI;Kotlin+%2B+Rust+%2B+C%2B%2B+%2B+Swift+%2B+SvelteKit;Curious+by+nature%2C+always+learning+by+building" alt="Typing introduction" /> </a>
 
 <br />
 <br />
@@ -18,14 +16,9 @@
 <a href="https://sudo-rahman.fr/">
   <img src="https://img.shields.io/badge/Portfolio-sudo--rahman.fr-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
-<a href="mailto:contact@rahman.ovh">
-  <img src="https://img.shields.io/badge/Contact-contact%40rahman.ovh-22C55E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
 <a href="https://github.com/Sudo-Rahman?tab=repositories">
   <img src="https://img.shields.io/badge/GitHub-19%20repos-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=Sudo-Rahman&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views" />
-<img src="https://img.shields.io/badge/Open%20to-Freelance%20missions-F97316?style=for-the-badge&logo=rocket&logoColor=white" alt="Open to freelance missions" />
 
 </div>
 
@@ -34,52 +27,11 @@
 
 ## `whoami`
 
-I am **Rahman YILMAZ**, a **freelance full-stack developer** based in **Chalon-sur-Saône**, available **remotely** or in **Burgundy / France**.
+I'm **Rahman**, a software developer who enjoys building mobile and desktop applications.
 
-I help startups, agencies and SMEs turn business needs into **useful, maintainable and shippable products**: SaaS prototypes, client dashboards, internal tools, desktop applications, data/AI pipelines, payment integrations, codebase takeovers or MVPs.
+These days, I do a lot of my coding with the **Codex app and OpenAI models**. I love AI engineering and the way it multiplies what a developer can build, test and improve.
 
-- 🎓 **Master's degree** — Databases & Artificial Intelligence  
-- 🧩 **Product** — scoping, UI, API, data, deployment, maintenance  
-- ⚙️ **Practical stack** — SvelteKit, TypeScript, Rust, Tauri, Node.js, PostgreSQL, Docker  
-- 🧠 **Data & AI** — LLM pipelines, document indexing, ETL, search, exports  
-- 🤝 **Engagement models** — fixed-price, day rate, short mission, technical audit, agency reinforcement  
-
----
-
-## ✨ What I can deliver
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚀 Web products & SaaS</h3>
-      <p>Dashboards, back offices, client portals, SaaS prototypes, authentication, subscriptions, licenses and APIs ready to use.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛠️ Internal tools & automations</h3>
-      <p>File processing, robust scripts, API connectors, data pipelines and automations to reduce repetitive tasks.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🖥️ Local-first desktop</h3>
-      <p>Native applications with Tauri/Rust or Qt/C++, local processing, FFmpeg, rclone, system operations and clean interfaces.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧠 Data, search & applied AI</h3>
-      <p>Multi-source ingestion, normalization, document indexing, LLM pipelines, dataset preparation and actionable exports.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📱 Mobile & cross-platform</h3>
-      <p>Android applications, native Apple apps, SwiftUI, Jetpack Compose, Kotlin Multiplatform and cloud synchronization.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📦 Delivery & maintenance</h3>
-      <p>Docker, GitHub Actions, CI/CD, Stripe webhooks, deployment, documentation, codebase takeover and continuous improvement.</p>
-    </td>
-  </tr>
-</table>
+I'm especially drawn to modern frameworks, low-level technical challenges, performance-oriented languages and clean, efficient software.
 
 ---
 
@@ -168,52 +120,6 @@ I help startups, agencies and SMEs turn business needs into **useful, maintainab
 
 ---
 
-## 🃏 GitHub project cards
-
-<div align="center">
-
-<a href="https://github.com/Sudo-Rahman/MediaFlow"><img src="https://img.shields.io/badge/MediaFlow-Desktop%20media%20toolkit-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="MediaFlow" /></a>
-<a href="https://github.com/Sudo-Rahman/Iridium"><img src="https://img.shields.io/badge/Iridium-Rclone%20desktop%20client-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Iridium" /></a>
-<a href="https://github.com/Sudo-Rahman/Fractalium"><img src="https://img.shields.io/badge/Fractalium-C%2B%2B%20MPI%20fractals-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="Fractalium" /></a>
-<a href="https://github.com/Sudo-Rahman/rclone_cpp"><img src="https://img.shields.io/badge/rclone__cpp-C%2B%2B%20rclone%20library-F97316?style=for-the-badge&logo=github&logoColor=white" alt="rclone_cpp" /></a>
-
-</div>
-
----
-
-## 🧭 My workflow
-
-<table>
-  <tr>
-    <td align="center" width="20%">
-      <h3>01</h3>
-      <strong>Scope</strong>
-      <p>Clarify the need, reduce the scope, choose a realistic architecture.</p>
-    </td>
-    <td align="center" width="20%">
-      <h3>02</h3>
-      <strong>Build</strong>
-      <p>Develop the interface, the API, the data layer and useful automations.</p>
-    </td>
-    <td align="center" width="20%">
-      <h3>03</h3>
-      <strong>Secure</strong>
-      <p>Validate inputs, handle errors, document important decisions.</p>
-    </td>
-    <td align="center" width="20%">
-      <h3>04</h3>
-      <strong>Ship</strong>
-      <p>Docker, CI/CD, reproducible scripts, desktop build or web deployment.</p>
-    </td>
-    <td align="center" width="20%">
-      <h3>05</h3>
-      <strong>Iterate</strong>
-      <p>Measure, fix, maintain and evolve without breaking what already exists.</p>
-    </td>
-  </tr>
-</table>
-
----
 
 ## 📊 GitHub analytics
 
@@ -231,40 +137,8 @@ I help startups, agencies and SMEs turn business needs into **useful, maintainab
 
 ---
 
-## 🎯 Current focus
-
-```text
-Building useful software with a strong product mindset:
-
-  SaaS / dashboards        -> SvelteKit, TypeScript, PostgreSQL, Prisma
-  Desktop local-first      -> Tauri 2, Rust, FFmpeg, Qt, C++
-  Automation & data        -> Python, ETL, scraping, indexing, exports
-  Applied AI pipelines     -> LLM workflows, transcription, translation, evaluation datasets
-  Delivery                 -> Docker, GitHub Actions, Stripe, webhooks, documentation
-```
-
----
-
-## 🤝 Let's work together
-
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <h3>🚀 MVP / SaaS</h3>
-      <p>Clean prototype, dashboard, payments, licenses, auth and a maintainable product foundation.</p>
-    </td>
-    <td align="center" width="33%">
-      <h3>⚙️ Business tool</h3>
-      <p>Automate a process, make a file workflow reliable or connect multiple APIs.</p>
-    </td>
-    <td align="center" width="33%">
-      <h3>🧩 Technical reinforcement</h3>
-      <p>Targeted support on frontend, backend, desktop, data, CI/CD or codebase takeover.</p>
-    </td>
-  </tr>
-</table>
 
 <br />
 
@@ -280,11 +154,8 @@ Building useful software with a strong product mindset:
 
 </div>
 
----
-
 <div align="center">
 
-### `Clean code. Useful product. Serious delivery.`
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0EA5E9&height=120&section=footer" alt="Footer wave" />
 
